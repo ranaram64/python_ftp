@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FTP-Utility>
+    <FTP-Account>
+        <Host>ftp.sunet.se</Host>
+        <Port>21</Port>
+        <Username>anonymous</Username>
+        <Password></Password>
+        <Sync_directory></Sync_directory>
+        <Sync_direction>Up</Sync_direction>
+        <Email></Email>
+    </FTP-Account>
+    <FTP-Account>
+        <Host></Host>
+        <Port></Port>
+        <Username></Username>
+        <Password></Password>
+        <Sync_directory></Sync_directory>
+        <Sync_direction>Down</Sync_direction>
+        <Email></Email>
+    </FTP-Account>
+    <FTP-Account>
+        <Host></Host>
+        <Port></Port>
+        <Username></Username>
+        <Password></Password>
+        <Sync_directory></Sync_directory>
+        <Sync_direction>Both</Sync_direction>
+        <Email></Email>
+    </FTP-Account>
+</FTP-Utility>
